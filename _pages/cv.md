@@ -37,13 +37,15 @@ Work experience
   * Provide high availability of data analytics platform, data security, flexibility of being able to use multiple data analytics tools (HortonWorks, Rstudio, Apache Spark etc) with a preference towards open source technology.
 
   
-Skills
+Technical Skills
 ======
 * Languages: Python, C++, Bash
 * Tools: Git, Ansible
-* Soft skills: 
-  * Rapid adoption of new technology and tools
-  * Multitasking
+
+Soft skills
+======
+* Rapidly adopting new technologies and tools
+* Rapid and agile task switching 
 
 Publications
 ======
