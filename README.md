@@ -23,8 +23,16 @@ See more info at https://academicpages.github.io/
 When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
 
 1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+1. Make sure you have ruby-dev, bundler, and nodejs installed: `brew install chruby ruby-install xz`
+1. Verify ruby install `ruby-install ruby 3.1.3`
+1. Run the following commands, then Quit and relaunch Terminal: 
+```commandline
+echo "source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc
+echo "source $(brew --prefix)/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc
+echo "chruby ruby-3.1.3" >> ~/.zshrc # run 'chruby' to see actual version
+```
+1. Run `gem install jekyll` 
+1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again. If still issues, run `bundle clean --force`
 1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
 
