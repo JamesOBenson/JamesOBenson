@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Electrical Engineering, University of Texas at San Antonio, 2016
-* Ph.D in Physics, University of Texas at San Antonio, 2011-2012 (incomplete)
+* Ph.D in Physics, University of Texas at San Antonio, 2011-2012 (Course Work Complete - Degree Incomplete)
 * M.S. in Physics, Clarkson University, 2009
 * B.S. in Physics, Clarkson University, 2007
 
