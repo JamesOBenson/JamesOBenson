@@ -8,5 +8,3 @@ venue: 'IEEE Transactions on Dependable and Secure Computing'
 paperurl: 'https://jamesobenson.github.io/files/2022-10-21-Hybrid-ABAC-RBAC-Smart-Home.pdf'
 citation: 'S. Ameer, J. Benson and R. Sandhu, "Hybrid Approaches (ABAC and RBAC) Toward Secure Access Control in Smart Home IoT," in IEEE Transactions on Dependable and Secure Computing, vol. 20, no. 5, pp. 4032-4051, 1 Sept.-Oct. 2023, doi: 10.1109/TDSC.2022.3216297'
 ---
-
-To read the publication, please <a href="files/2022-10-21-Hybrid-ABAC-RBAC-Smart-Home.pdf">Download File</a>

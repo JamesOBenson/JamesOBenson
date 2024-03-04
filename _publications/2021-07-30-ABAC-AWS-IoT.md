@@ -8,5 +8,3 @@ venue: "IEEE Access"
 paperurl: 'https://jamesobenson.github.io/files/2021-07-30-ABAC-AWS-IoT.pdf'
 citation: 'S. Bhatt, T. K. Pham, M. Gupta, J. Benson, J. Park and R. Sandhu, "Attribute-Based Access Control for AWS Internet of Things and Secure Industries of the Future," in IEEE Access, vol. 9, pp. 107200-107223, 2021, doi: 10.1109/ACCESS.2021.3101218'
 ---
-
-To read the publication, please <a href="files/2021-07-30-ABAC-AWS-IoT.pdf">Download File</a>

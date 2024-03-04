@@ -8,5 +8,3 @@ venue: "MDPI Information"
 paperurl: 'https://jamesobenson.github.io/files/2022-01-25-ABAC-Smart-Home-IoT.pdf'
 citation: 'Ameer, S., Benson, J., & Sandhu, R. (2022). An Attribute-Based Approach toward a Secured Smart-Home IoT Access Control and a Comparison with a Role-Based Approach. Information (Basel), 13(2), 60-. https://doi.org/10.3390/info13020060'
 ---
-
-To read the publication, please <a href="files/2022-01-25-ABAC-Smart-Home-IoT.pdf">Download File</a>

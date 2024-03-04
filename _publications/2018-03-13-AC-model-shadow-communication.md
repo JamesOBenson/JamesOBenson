@@ -8,5 +8,3 @@ venue: 'Proceedings of the Eighth ACM Conference on Data and Application Securit
 paperurl: 'https://jamesobenson.github.io/files/2018-03-13-AC-model-shadow-communication.pdf'
 citation: 'Asma Alshehri, James Benson, Farhan Patwa, and Ravi Sandhu. 2018. Access Control Model for Virtual Objects (Shadows) Communication for AWS Internet of Things. In Proceedings of the Eighth ACM Conference on Data and Application Security and Privacy (CODASPY 18). Association for Computing Machinery, New York, NY, USA, 175–185. https://doi.org/10.1145/3176258.3176328'
 ---
-
-To read the publication, please <a href="files/2018-03-13-AC-model-shadow-communication.pdf">Download File</a>

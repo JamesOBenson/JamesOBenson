@@ -8,5 +8,3 @@ venue: "2022 ACM Workshop on Secure and Trustworthy Cyber-Physical Systems (Sat-
 paperurl: 'https://jamesobenson.github.io/files/2022-04-28-Blockchain-Smart-Home-IoT.pdf'
 citation: "Mehrnoosh Shakarami, James Benson, and Ravi Sandhu. 2022. Blockchain-Based Administration of Access in Smart Home IoT. In Proceedings of the 2022 ACM Workshop on Secure and Trustworthy Cyber-Physical Systems (Sat-CPS '22). Association for Computing Machinery, New York, NY, USA, 57–66. https://doi.org/10.1145/3510547.3517921"
 ---
-
-To read the publication, please <a href="files/2022-01-25-ABAC-Smart-Home-IoT.pdf">Download File</a>

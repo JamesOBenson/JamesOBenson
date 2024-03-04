@@ -8,5 +8,3 @@ venue: "IEEE Transactions on Dependable and Secure Computing"
 paperurl: 'https://jamesobenson.github.io/files/2022-01-25-Reachability-Analysis-Attributes-ABAC.pdf'
 citation: 'M. Gupta, R. Sandhu, T. Mawla and J. Benson, "Reachability Analysis for Attributes in ABAC With Group Hierarchy," in IEEE Transactions on Dependable and Secure Computing, vol. 20, no. 1, pp. 841-858, 1 Jan.-Feb. 2023, doi: 10.1109/TDSC.2022.3145358'
 ---
-
-To read the publication, please <a href="files/2021-12-13-Edge-Centric-Digital-Twins.pdf">Download File</a>

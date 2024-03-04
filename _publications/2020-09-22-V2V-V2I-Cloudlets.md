@@ -8,5 +8,3 @@ venue: "IEEE Transactions on Services Computing"
 paperurl: 'https://jamesobenson.github.io/files/2020-09-22-V2V-V2I-Cloudlets.pdf'
 citation: 'M. Gupta, J. Benson, F. Patwa and R. Sandhu, "Secure V2V and V2I Communication in Intelligent Transportation Using Cloudlets," in IEEE Transactions on Services Computing, vol. 15, no. 4, pp. 1912-1925, 1 July-Aug. 2022, doi: 10.1109/TSC.2020.3025993'
 ---
-
-To read the publication, please <a href="files/2020-09-22-V2V-V2I-Cloudlets.pdf">Download File</a>

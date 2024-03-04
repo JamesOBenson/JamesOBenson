@@ -8,5 +8,3 @@ venue: "IEEE Transactions on Industrial Informatics"
 paperurl: 'https://jamesobenson.github.io/files/2020-09-08-ABAC-Smart-Vehicles.pdf'
 citation: 'M. Gupta, F. M. Awaysheh, J. Benson, M. Alazab, F. Patwa and R. Sandhu, "An Attribute-Based Access Control for Cloud Enabled Industrial Smart Vehicles," in IEEE Transactions on Industrial Informatics, vol. 17, no. 6, pp. 4288-4297, June 2021, doi: 10.1109/TII.2020.3022759'
 ---
-
-To read the publication, please <a href="files/2020-09-08-ABAC-Smart-Vehicles.pdf">Download File</a>

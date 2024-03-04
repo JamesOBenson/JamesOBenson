@@ -8,5 +8,3 @@ venue: "Ninth ACM Conference on Data and Application Security and Privacy (CODAS
 paperurl: 'https://jamesobenson.github.io/files/2019-03-13-CODASPY-19-Smart-Car.pdf'
 citation: 'Maanak Gupta, James Benson, Farhan Patwa, and Ravi Sandhu. 2019. Dynamic Groups and Attribute-Based Access Control for Next-Generation Smart Cars. In Proceedings of the Ninth ACM Conference on Data and Application Security and Privacy (CODASPY 19). Association for Computing Machinery, New York, NY, USA, 61–72. https://doi.org/10.1145/3292006.3300048'
 ---
-
-To read the publication, please <a href="files/2019-03-13-CODASPY-19-Smart-Car.pdf">Download File</a>

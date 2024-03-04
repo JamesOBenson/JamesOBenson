@@ -8,5 +8,3 @@ venue: '2022 IEEE 4th International Conference on Trust, Privacy and Security in
 paperurl: 'https://jamesobenson.github.io/files/2022-12-14-Scenario_D2D-AC.pdf'
 citation: 'M. Shakarami, J. Benson and R. Sandhu, "Scenario-Driven Device-to-Device Access Control in Smart Home IoT," 2022 IEEE 4th International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS-ISA), Atlanta, GA, USA, 2022, pp. 217-228, doi: 10.1109/TPS-ISA56441.2022.00035.'
 ---
-
-To read the publication, please <a href="files/2022-12-14-Scenario_D2D-AC.pdf">Download File</a>

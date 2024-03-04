@@ -8,5 +8,3 @@ venue: "IEEE 21st International Conference on Information Reuse and Integration 
 paperurl: 'https://jamesobenson.github.io/files/2020-08-11-EGRBAC-Smart-Home.pdf'
 citation: 'S. Ameer, J. Benson and R. Sandhu, The EGRBAC Model for Smart Home IoT," 2020 IEEE 21st International Conference on Information Reuse and Integration for Data Science (IRI), Las Vegas, NV, USA, 2020, pp. 457-462, doi: 10.1109/IRI49571.2020.00076'
 ---
-
-To read the publication, please <a href="files/2020-08-11-EGRBAC-Smart-Home.pdf">Download File</a>

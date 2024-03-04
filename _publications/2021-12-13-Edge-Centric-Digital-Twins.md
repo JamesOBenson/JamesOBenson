@@ -8,5 +8,3 @@ venue: "2021 Third IEEE International Conference on Trust, Privacy and Security 
 paperurl: 'https://jamesobenson.github.io/files/2021-12-13-Edge-Centric-Digital-Twins.pdf'
 citation: 'G. Cathey, J. Benson, M. Gupta and R. Sandhu, "Edge Centric Secure Data Sharing with Digital Twins in Smart Ecosystems," 2021 Third IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA), Atlanta, GA, USA, 2021, pp. 70-79, doi: 10.1109/TPSISA52974.2021.00008'
 ---
-
-To read the publication, please <a href="files/2021-12-13-Edge-Centric-Digital-Twins.pdf">Download File</a>

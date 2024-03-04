@@ -8,5 +8,3 @@ venue: "2016 Annual IEEE Systems Conference (SysCon)"
 paperurl: 'https://jamesobenson.github.io/files/2016-04-18-Survey-Automated-Tools.pdf'
 citation: 'J. O. Benson, J. J. Prevost and P. Rad, "Survey of automated software deployment for computational and engineering research," 2016 Annual IEEE Systems Conference (SysCon), Orlando, FL, USA, 2016, pp. 1-6, doi: 10.1109/SYSCON.2016.7490666.'
 ---
-
-To read the publication, please <a href="files/2016-04-18-Survey-Automated-Tools.pdf">Download File</a>

@@ -8,5 +8,3 @@ venue: "arXiv preprint arXiv:1908.08112"
 paperurl: 'https://jamesobenson.github.io/files/2019-08-21-Secure-Cloud-DG-ABAC.pdf'
 citation: 'Gupta, Maanak, James Benson, Farhan Patwa, and Ravi Sandhu. "Secure cloud assisted smart cars using dynamic groups and attribute based access control." arXiv preprint arXiv:1908.08112 (2019).'
 ---
-
-To read the publication, please <a href="files/2019-08-21-Secure-Cloud-DG-ABAC.pdf">Download File</a>
