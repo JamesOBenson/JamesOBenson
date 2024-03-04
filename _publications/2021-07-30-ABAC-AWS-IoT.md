@@ -1,0 +1,11 @@
+---
+title: "Attribute-Based Access Control for AWS Internet of Things and Secure Industries of the Future"
+collection: publications
+permalink: /files/2021-07-30-ABAC-AWS-IoT.pdf
+excerpt: "Internet of Things (IoT) is revolutionizing and enhancing the quality of human lives in every aspect. With a disruption of IoT devices and applications, attackers are leveraging weak authentication and access control mechanisms on these IoT devices and applications to gain unauthorized access on user devices and data and cause them harm. Access control is a critical security mechanism to secure the IoT ecosystem which comprises cloud computing and edge computing services along with smart devices. Today major cloud and IoT service providers including Amazon Web Services (AWS), Google Cloud Platform (GCP), and Azure utilize some customized forms of Role-Based Access Control (RBAC) model along with specific authorization policies enabled by policy-based access control models. To enable fine-grained access control and overcome limitations of existing access control models, there is an imminent need to develop a flexible and dynamic access control model for securing smart devices, data and resources in the cloud-enabled IoT architecture. In this paper, we develop a formal attribute-based access control (ABAC) model for AWS IoT by building upon and extending previously developed access control model for AWS IoT, known as AWS-IoTAC model. We demonstrate the applicability of our proposed model through an industrial IoT use case and its implementation in the AWS IoT platform. Our proposed fine grained model for AWS IoT incorporates its existing capabilities and introduces new attributes for IoT entities and attribute-based policies for enabling expressive access control in AWS IoT. We also evaluate the performance of our model on the AWS cloud and IoT platform with the future smart industries use-case to depict the feasibility of our model in a real-world platform."
+date: 2021-07-30
+venue: "IEEE Access"
+citation: 'S. Bhatt, T. K. Pham, M. Gupta, J. Benson, J. Park and R. Sandhu, "Attribute-Based Access Control for AWS Internet of Things and Secure Industries of the Future," in IEEE Access, vol. 9, pp. 107200-107223, 2021, doi: 10.1109/ACCESS.2021.3101218'
+---
+
+To read the publication, please <a href="files/2021-07-30-ABAC-AWS-IoT.pdf">Download File</a>

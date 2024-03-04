@@ -1,0 +1,11 @@
+---
+title: "An Attribute-Based Access Control for Cloud Enabled Industrial Smart Vehicles"
+collection: publications
+permalink: /files/2020-09-08-ABAC-Smart-Vehicles.pdf
+excerpt: "Smart cities' vision will encompass connected industrial vehicles, which will offer data-driven and intelligent services to the user. Such interaction within dispersed connected objects are sometimes referred as the industrial Internet-of-Vehicles (IIoV). The prime motivation of an intelligent transportation system (ITS) is ensuring the safety of the drivers and offering a comfortable experience to the user. However, such complex infrastructures opens broad attack surfaces to the adversaries, which can remotely exploit and control the critical mechanics in the smart vehicles, including engine and brake systems. Security and privacy concerns are significant barriers to the wide adoption of this revolutionary technology that has to be addressed before a comprehensive implementation of the real vision of ITS. This article is a stepping stone to address access control issues in the IIoV ecosystem and propose a formal attribute-based access control system (referred to ITS-ABACG). The proposed model introduces the notion of groups, which are assigned to various smart entities based on the different attributes. It also offers the implementation of fine-grained security policies and considers individualized privacy preferences along with system-wide policies to accept or reject notification, alerts, and advertisements from different participating smart entities. We present the prototype implementation of our proposed model in the Amazon Web Services IoT platform together with extensive performance to reflect the practicality and wide-scale adoption of the proposed system."
+date: 2020-09-08
+venue: "IEEE Transactions on Industrial Informatics"
+citation: 'M. Gupta, F. M. Awaysheh, J. Benson, M. Alazab, F. Patwa and R. Sandhu, "An Attribute-Based Access Control for Cloud Enabled Industrial Smart Vehicles," in IEEE Transactions on Industrial Informatics, vol. 17, no. 6, pp. 4288-4297, June 2021, doi: 10.1109/TII.2020.3022759'
+---
+
+To read the publication, please <a href="files/2020-09-08-ABAC-Smart-Vehicles.pdf">Download File</a>
