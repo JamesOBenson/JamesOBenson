@@ -16,10 +16,12 @@ Education
 * M.S. in Physics, Clarkson University, 2009
 * B.S. in Physics, Clarkson University, 2007
 
-Certificates:
+Certificates
+======
 * [5-course DeepLearning.AI Deep Learning Specialization](https://www.credly.com/badges/fb04f51b-39d7-4db2-b05d-b688495b971c/public_url)
 
-Patents:
+Patents
+======
 * [Dynamic Groups and Attribute-Based Access Control for Next-Generation Smart Cars](https://uspto.report/patent/app/20200283002)
 
 Work experience
