@@ -10,11 +10,17 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+====== 
 * M.S. in Electrical Engineering, University of Texas at San Antonio, 2016
 * Ph.D in Physics, University of Texas at San Antonio, 2011-2012 (Course Work Complete - Degree Incomplete)
 * M.S. in Physics, Clarkson University, 2009
 * B.S. in Physics, Clarkson University, 2007
+
+Certificates:
+* [5-course DeepLearning.AI Deep Learning Specialization](https://www.credly.com/badges/fb04f51b-39d7-4db2-b05d-b688495b971c/public_url)
+
+Patents:
+* [Dynamic Groups and Attribute-Based Access Control for Next-Generation Smart Cars](https://uspto.report/patent/app/20200283002)
 
 Work experience
 ======
@@ -45,7 +51,8 @@ Technical Skills
 Soft skills
 ======
 * Rapidly adopting new technologies and tools
-* Rapid and agile task switching 
+* Rapid and agile task switching
+* English: Native; German: CEFR A2/B1
 
 Publications
 ======
