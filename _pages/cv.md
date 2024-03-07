@@ -22,7 +22,7 @@ Certificates
 
 Patents
 ======
-* [Dynamic Groups and Attribute-Based Access Control for Next-Generation Smart Cars](https://uspto.report/patent/app/20200283002)
+* [Dynamic Groups and Attribute-Based Access Control for Next-Generation Smart Cars](https://patents.google.com/patent/US11858517B2)
 
 Work experience
 ======
